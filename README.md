@@ -3,7 +3,7 @@
     <meta charset="utf-8">
     <style>
     body {
-        background-color:red ;
+        background-color:glue ;
     }
     </style>
   </head>
@@ -18,5 +18,5 @@
     <li style="color:brown">순쇠고기</li>
     <li style="color:brown">순쇠고기</li>
     <li style="color:orange">참깨빵</li>
-::after
+      <li style="color:yeliow">빠빠빠라라빠</li>
       <siv>
