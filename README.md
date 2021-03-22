@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <style>
     body {
-        background-color: purple;
+        background-color: orange;
     }
     </style>
   </head>
@@ -20,6 +20,7 @@
     <li style="color:green">피클</li>
     <li style="color:gray">양파</li>
     <li style="color:orange">참깨빵</li>
+    <li style="color:red">맥X날드</li>
     </ul>
   </body>
 </html>
