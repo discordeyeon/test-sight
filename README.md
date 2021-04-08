@@ -1,25 +1,27 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <style>
-    body {
-        background-color: purple;
+<body>
+    <form>
+    <div class="job">
+
+            <button class="Button">
+                <input type="text">
+                아아
+            </button>
+        </form>
+
+
+    </div>
+</body>
+
+
+<style>
+    .job {
+        font-size : 30px;
     }
-    </style>
-  </head>
-  <body>
-    <ul>
-    빅맥 버거 구조
-    <li style="color:orange">참깨빵</li>
-    <li style="color:brown">순쇠고기</li>
-    <li style="color:brown">순쇠고기</li>
-    <li style="color:red">특별한 소스</li>
-    <li style="color:green">양상추</li>
-    <li style="color:yellow">치즈</li>
-    <li style="color:green">피클</li>
-    <li style="color:gray">양파</li>
-    <li style="color:orange">참깨빵</li>
-    </ul>
-  </body>
-</html>
+    .button {
+        background: greenyellow;
+        margin-top: 900;
+        margin-left: 1250;
+        margin-right: 100;
+        box-shadow: 0 0 10px #00ff00;
+    }   
+</style>
